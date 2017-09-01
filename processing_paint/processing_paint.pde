@@ -1,4 +1,4 @@
-// Ying Feng (IDM, Processing Assignment, 15331988)
+// Ying Feng (IDM, Processing Assignment)
 
 int pensize = 2;               
 int maxpensize = 20;
